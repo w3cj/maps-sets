@@ -778,6 +778,13 @@ layout: two-cols
 - twitter.com/Coding_Garden
 - cj@null.computer
 
+<v-clicks>
+ 
+- Slides are here: https://github.com/w3cj/maps-sets
+  - Made with sli.dev
+
+</v-clicks>
+
 ::right::
 
 <v-clicks>
